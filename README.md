@@ -11,6 +11,14 @@ Windowsで C:\git フォルダで運用を想定している。他のフォル�
     cd /d c:\git
     git clone https://github.com/lastshogun13/Unity-chan-alerm.git
 
+## プロジェクトの開き方
+
+git cloneで取得したフォルダをUnityでプロジェクトとして開く
+Project -> Scenes -> Launch
+Project -> Scenes -> Unity-chan-Alarm
+どちらかを開く。　Runする。
+
+
 ## ブランチ運用
 
 1. master
